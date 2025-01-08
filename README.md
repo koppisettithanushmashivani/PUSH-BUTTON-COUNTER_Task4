@@ -111,7 +111,7 @@ The push button is used to activate the system. When the button is pressed, the 
 CONCLUSION:
  The Push Button Counter with a temperature sensor is an effective and interactive project that integrates basic input/output mechanisms with real-world sensor data. By using a push button to trigger the system, users can control when temperature readings are displayed, either on an LCD or through a serial monitor. This setup allows for easy monitoring of temperature fluctuations, making it suitable for applications such as room temperature monitoring, environmental control, or educational purposes in electronics and programming. Additionally, it demonstrates how simple components like sensors, buttons, and displays can work together to provide valuable feedback in an intuitive and user-friendly manner. The project serves as a practical introduction to sensor-based systems, microcontroller programming, and user input handling, offering endless opportunities for further customization and expansion. 
 
-WORKING OUTPUT:https://github.com/SANDUSHIVA/PUSH-BUTTON-COUNTER-Task1/commit/3d05f4904712600879cf1ca33a1d583b92a7ff60
+WORKING OUTPUT:https://github.com/koppisettithanushmashivani/PUSH-BUTTON-COUNTER_Task4/commit/7f4ddc7e07e4ecfe4566250e80de56fac6ba2fba
 
 
 
