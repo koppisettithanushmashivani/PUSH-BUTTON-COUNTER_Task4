@@ -103,7 +103,7 @@ void loop() {
   delay(500); // Delay for stability
 }
 
-BLOCK DIAGRAM:https://github.com/SANDUSHIVA/PUSH-BUTTON-COUNTER-Task1/commit/e3c551624bbee5117023e515b01ed320d970331d
+BLOCK DIAGRAM:https://github.com/koppisettithanushmashivani/PUSH-BUTTON-COUNTER_Task4/commit/4336d35a770d07718692f05f94d2c54c5fe7a765
 
 WORKING EXPLANATION:
 The push button is used to activate the system. When the button is pressed, the circuit is powered on, and the microcontroller (e.g., Arduino) begins executing the code.The temperature sensor continuously reads the surrounding temperature. If using a sensor like the LM35, it gives an analog output proportional to the temperature, which is read by the microcontroller's analog input pin.After reading the sensor’s value, the microcontroller converts this raw data into a readable temperature value (in Celsius or Fahrenheit).The LCD or serial monitor displays this temperature reading in real-time. If using an LCD, the microcontroller sends the temperature data to the display, updating it continuously or at a set interval. If using a serial monitor, the data is transmitted over the serial communication line and displayed on the connected computer screen.The push button serves as a trigger to start or reset the process, which is useful for data logging or periodic measurements.This project demonstrates how user input (via the push button) can control the flow of data acquisition and display from a sensor, making it interactive and useful for monitoring environmental conditions.
